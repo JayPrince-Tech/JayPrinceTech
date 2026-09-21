@@ -34,7 +34,8 @@ h2{
   font-family: Arial, Sans Serif;
   margin-bottom:15px
 }
-      
+h1, h2{ text-align: center;
+      }
 body {
     font-family: Arial, sans-serif;
     margin: 0;
