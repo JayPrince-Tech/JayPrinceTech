@@ -6,7 +6,9 @@ body {
     background-color: black;
     padding: 15px;
 }
-
+.navbar {
+    text-align:center;
+}
 .nav-links {
     display: flex;
     gap: 30px;
