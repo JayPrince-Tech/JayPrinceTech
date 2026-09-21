@@ -19,3 +19,21 @@ body {
     color: white;
     text-decoration: none;
 }
+h1{
+  color: White;
+  font-size: 36px;
+  text-align:center;
+  font-family:Arial,Sans Serif;
+  margin-bottom: 20px; 
+}
+  
+h2{
+  color: White;
+  font-size: 28px;
+  text-align: center;
+  font-family: Arial, Sans Serif;
+  margin-bottom:15px
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
