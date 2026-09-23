@@ -1,11 +1,7 @@
-body {
-    background-color: #1b4332;
-}
+
 .navbar {
     background-color: black;
     padding: 15px;
-}
-.navbar {
     text-align:center;
 }
 .nav-links {
@@ -25,7 +21,7 @@ h1{
   color: #d4a017;
   font-size: 36px;
   text-align:center;
-  font-family: Georgia, Serif;
+  font-family: Chalet,Sans Serif;
   margin-bottom: 20px; 
   -webkit-text-stroke: 2px saddlebrown;
   text-shadow: 2px 2px 4px black;
@@ -34,12 +30,9 @@ h2{
   color: #d4a017;
   font-size: 28px;
   text-align: center;
-  font-family: Arial, Sans Serif;
+  font-family: Chalet, Sans Serif;
   margin-bottom:15px
 }
-h1, h2{ text-align: center;
-     color: #d4a017;
-      }
 body {
     font-family: Arial, sans-serif;
     margin: 0;
