@@ -45,3 +45,10 @@ body {
     padding: 20px;
     background-color: mossgreen;
 }
+h3{
+    color: white;
+    font-size: 45px;
+    text-align: center;
+    font-family: Arial, sans serif;
+    margin-bottom: 15px;
+}
