@@ -1,8 +1,8 @@
 body {
-    background-color: seagreen;
+    background-color: #1b4332;
 }
 .navbar {
-    background-color: #E6A817;
+    background-color: black;
     padding: 15px;
 }
 .navbar {
@@ -18,7 +18,7 @@ body {
 }
 
 .nav-links a {
-    color: white;
+    color: #d4a017;
     text-decoration: none;
 }
 h1{
