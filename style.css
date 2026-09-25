@@ -1,5 +1,4 @@
 
-/* Whole website background */
 html, body {
     background-color: #1b4332;
     margin: 0;
@@ -27,7 +26,7 @@ h2 {
 }
 .navbar {
     background-color: black;
-    padding: 15px;
+    padding: 30px;
     text-align:center;
 }
 .nav-links {
