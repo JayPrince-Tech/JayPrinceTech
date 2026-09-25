@@ -74,3 +74,13 @@ body {
 .card-text h2 {
     color: goldenrod;
 }
+html {
+    background-color: #1b4332;
+    min-height: 100%;
+}
+
+body {
+    background-color: #1b4332;
+    min-height: 100vh;
+    margin: 0;
+}
