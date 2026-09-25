@@ -85,3 +85,8 @@ body {
     min-height: 100vh;
     margin: 0;
 }
+html, body {
+    background-color: #1b4332 !important;
+    min-height: 100vh;
+    margin: 0;
+}
