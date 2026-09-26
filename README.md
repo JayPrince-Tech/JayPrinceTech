@@ -1,1 +1,1 @@
-# jayprince-tech.github.io
+A site where I sell controllers that are custom rather than baseline colors. We get unique colors, patterns and inspired controllers; customers could modify their own or a new controller decked out with things like clicky triggers and custom buttons and shells. Additionally you could buy a care package or other sets with different things in them. This site is like jay prince tech but more VIP or royal if you will.
