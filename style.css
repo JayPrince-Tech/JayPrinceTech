@@ -116,27 +116,7 @@ nav a{
   line-height: 1.5;
   margin: 0;
 }
-.features {
-    display: flex;
-  justify-content: center;
-  gap: 18px;
-  margin: 60px auto 100px;
-  padding: 0 20px;
-}
 
-.feature-box {
-  width: 30%;
-  max-width: 280px;
-  min-height: 170px;
-  background: #111a2d;
-  border: 1px solid #3869e8;
-  border-radius: 18px;
-  padding: 25px 18px;
-  text-align: center;
-  box-sizing: border-box;
-    flex-direction: row;
-    display: flex;
-}
 .boxes {
   display: flex;
   flex-direction: row;
@@ -152,4 +132,17 @@ nav a{
 display: flex;
     flex-direction: row;
     
+}
+
+.cards {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  justify-content: center;
+  align-items: stretch;
+}
+
+.card {
+  width: 200px;
+  padding: 20px;
 }
